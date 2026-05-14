@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio-canvas",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "serve", "--no-clipboard", "--listen", "8769", "--config", ".claude/serve.json"],
+      "port": 8769
+    }
+  ]
+}

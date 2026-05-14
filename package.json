@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-canvas",
+  "version": "1.0.0",
+  "description": "Public demo portfolio · Canvas view",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 8769",
+    "preview": "python3 -m http.server 8769"
+  },
+  "keywords": ["portfolio", "design", "demo", "Canvas"],
+  "author": "demo",
+  "license": "UNLICENSED"
+}
